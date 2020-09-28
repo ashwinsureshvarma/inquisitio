@@ -1,8 +1,9 @@
+# inquisitio<br>
 [Meaning Investigation/Reconnaissance in Latin]<br>
 
 Now-a-days in the domain of Cyber Security we are seeing a change in the way hacks are being performed. Recent attacks have shown that the attackers are not out to steal the data but are looking to disrupt services[The attackers use attack vectors that are new and haven't been seen before. Instead of attacking their primary targets directly, they attack less secure vendors. These attackers go through set of steps to finally reach their end goal] <br>
 
-The basic steps to conduct any Cyber Attack are:<br>
+#### The basic steps to conduct any Cyber Attack are:<br>
 
 Step 1: Reconnaissance<br>
 Step 2: Weaponization<br>
