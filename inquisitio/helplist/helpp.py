@@ -7,19 +7,22 @@ def Banner():
     os.system("clear")
     
     print(Fore.LIGHTRED_EX+"""\n    
- ██╗    ██╗███████╗██████╗ ██╗  ██╗██╗██╗     ██╗     ███████╗██████╗ 
- ██║    ██║██╔════╝██╔══██╗██║ ██╔╝██║██║     ██║     ██╔════╝██╔══██╗
- ██║ █╗ ██║█████╗  ██████╔╝█████╔╝ ██║██║     ██║     █████╗  ██████╔╝
- ██║███╗██║██╔══╝  ██╔══██╗██╔═██╗ ██║██║     ██║     ██╔══╝  ██╔══██╗
- ╚███╔███╔╝███████╗██████╔╝██║  ██╗██║███████╗███████╗███████╗██║  ██║
- ╚══╝╚══╝ ╚══════╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝
- ====================================================================
- **                  WebSite : UltraSec.org                        **
- **                  Channel : @UltraSecurity                      **
- **                 Developers : Writer                            **
- **               Team Members : AmScan , Milad Ranjbar            **
- **                   Thank's : .::Shayan::.                       **
- ====================================================================          
+                                                   ███                 
+  ██                              ██          ██   ███    ██           
+     ███ ███     ███    ███  ███      █████      ████ ██        ███    
+ ███  ███  ███ ██  ███  ███  ███ ███ ███     ███   ███   ███  ███  ███ 
+ ███  ███  ███ ██  ███  ███  ███ ███   ████  ███   ███   ███ ███    ███
+ ███  ███  ███  ██████  ███  ███ ███     ███ ███   ███ █ ███  ███  ███ 
+ ███ ████  ███     ███    ██████ ███ ██████  ███    ███  ███    ███    
+                    ███                                                
+                                               
+ ========================================================================
+ **            Course       : Information Security Analysis and Audit  **
+ **            Course Code  : G2                                       **
+ **            Faculty      : Prof. Kakelli Anil Kumar                 **
+ **            Team Members : Ashwin Suresh Varma (18BCE2287)	       **
+ **         		      Tris Marie Joe      (18BCE2299)	       **
+ ========================================================================         
           """)       
 # ₿
 def infolist1():
@@ -28,9 +31,9 @@ def infolist1():
     time.sleep(0.1)
     print(Fore.LIGHTYELLOW_EX+" [1] Information Gathering\n")
     time.sleep(0.1)
-    print(Fore.RED+" [2] CMS Detection\n") 
+    '''print(Fore.RED+" [2] CMS Detection\n") 
     time.sleep(0.1)
-    print(Fore.YELLOW+" [3] Developer :)\n")
+    print(Fore.YELLOW+" [3] Developer :)\n")'''
     time.sleep(0.1)
     print(Fore.BLUE+" [4] Exit . . .\n")
 
@@ -95,7 +98,7 @@ def infolist2():
 
     print(Fore.GREEN+"  [14]"+Fore.BLUE+" - Exit :) \n")   
 
-def infolist3():
+'''def infolist3():
 
       
       Banner()
@@ -152,4 +155,4 @@ def infowp():
     print(Fore.GREEN+"  [3]"+Fore.BLUE+" - Back To Menu ")
 
     print(Fore.CYAN+"  **********************\n")
-    time.sleep(0.1)
+    time.sleep(0.1)'''

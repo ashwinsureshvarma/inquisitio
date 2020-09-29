@@ -55,7 +55,7 @@ while True:
     try:
         helpp.Banner()
         helpp.infolist1()
-        number = input(Fore.RED+" ┌─["+Fore.LIGHTGREEN_EX+"WEBKILLER"+Fore.BLUE+"~"+Fore.WHITE+"@HOME"+Fore.RED+"""]
+        number = input(Fore.RED+" ┌─["+Fore.LIGHTGREEN_EX+"inquisitio"+Fore.BLUE+"~"+Fore.WHITE+"@HOME"+Fore.RED+"""]
  └──╼ """+Fore.WHITE+"卐 ").lower()
     except:
         print("\n God Lock :) ")
@@ -85,7 +85,7 @@ while True:
         try:
             helpp.Banner()
             helpp.infolist2()
-            infor = input(Fore.RED+" ┌─["+Fore.LIGHTGREEN_EX+"WEBKILLER"+Fore.BLUE+"~"+Fore.WHITE+"@HOME"+Fore.RED+"/"+Fore.CYAN+"Information Gathering"+Fore.RED+"""]
+            infor = input(Fore.RED+" ┌─["+Fore.LIGHTGREEN_EX+"inquisitio"+Fore.BLUE+"~"+Fore.WHITE+"@HOME"+Fore.RED+"/"+Fore.CYAN+"Information Gathering"+Fore.RED+"""]
  └──╼ """+Fore.WHITE+"卐 ").lower()
     
             if infor == "1":
@@ -178,7 +178,7 @@ while True:
     elif number == "2":
         helpp.infolist4()
         try:
-            numcms = input(Fore.RED+" ┌─["+Fore.LIGHTGREEN_EX+"WEBKILLER"+Fore.BLUE+"~"+Fore.WHITE+"@HOME"+Fore.RED+"/"+Fore.CYAN+"CMS Detection"+Fore.RED+"""]
+            numcms = input(Fore.RED+" ┌─["+Fore.LIGHTGREEN_EX+"inquisitio"+Fore.BLUE+"~"+Fore.WHITE+"@HOME"+Fore.RED+"/"+Fore.CYAN+"CMS Detection"+Fore.RED+"""]
  └──╼ """+Fore.WHITE+"卐 ").lower()
 
         except:
@@ -187,7 +187,7 @@ while True:
         if numcms == "1":
             helpp.infowp()
             try:
-                wp = input(Fore.RED+" ┌─["+Fore.LIGHTGREEN_EX+"WEBKILLER"+Fore.BLUE+"~"+Fore.WHITE+"@HOME"+Fore.RED+"/"+Fore.CYAN+"CMN"+Fore.RED+"/"+Fore.LIGHTYELLOW_EX+"WordPress"+Fore.RED+"""]
+                wp = input(Fore.RED+" ┌─["+Fore.LIGHTGREEN_EX+"inquisitio"+Fore.BLUE+"~"+Fore.WHITE+"@HOME"+Fore.RED+"/"+Fore.CYAN+"CMN"+Fore.RED+"/"+Fore.LIGHTYELLOW_EX+"WordPress"+Fore.RED+"""]
  └──╼ """+Fore.WHITE+"卐 ").lower()
             except:
                 print("")
