@@ -4,7 +4,7 @@ import sys
 def __start__():
     try:
         print(Fore.RED+" [!] Enter WebSite Address\n")
-        url = input(Fore.RED+" ┌─["+Fore.LIGHTGREEN_EX+"WEBKILLER"+Fore.BLUE+"~"+Fore.WHITE+"@HOME"+Fore.RED+"/"+Fore.CYAN+"IG"+Fore.RED+"/"+Fore.LIGHTYELLOW_EX+"Admin-Finder"+Fore.RED+"""]
+        url = input(Fore.RED+" ┌─["+Fore.LIGHTGREEN_EX+"inquisitio"+Fore.BLUE+"~"+Fore.WHITE+"@HOME"+Fore.RED+"/"+Fore.CYAN+"IG"+Fore.RED+"/"+Fore.LIGHTYELLOW_EX+"Admin-Finder"+Fore.RED+"""]
  └──╼ """+Fore.WHITE+"卐 ")
  
         list_=['admin/','administrator/','login.php','administration/','admin1/','admin2/','admin3/','admin4/','admin5/','moderator/','webadmin/','adminarea/','bb-admin/','adminLogin/','admin_area/','panel-administracion/','instadmin/',

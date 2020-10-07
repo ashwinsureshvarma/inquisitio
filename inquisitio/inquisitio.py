@@ -4,7 +4,7 @@ import socket
 import os
 import time
 from helplist import helpp
-from modules import cms,Traceroute,reverseip,portscan,iplocation,httpheader,findsharedns,whois,dnslookup,robots,finder,cloudflare,wordpress
+from modules import trial,cms,Traceroute,reverseip,portscan,iplocation,httpheader,findsharedns,whois,dnslookup,robots,finder,cloudflare,wordpress
 
 
 
@@ -79,7 +79,7 @@ while True:
 
 #----------------------------------------------------------------------------------
 
-#Information Gathering
+	#Information Gathering
 
     elif number == '1':
         try:
@@ -90,8 +90,7 @@ while True:
     
             if infor == "1":
                 helpp.Banner()
-                cloudflare.__start__()
-
+                cloudflare.__start__()         
                 #####################
 
             elif infor == "2":
@@ -160,14 +159,23 @@ while True:
 
                 #####################
 
-            elif infor == "13":
+
+            elif infor == "14":
                 input(Fore.RED+" [!]"+Fore.GREEN+" Back To Menu (Press Enter...) ")
 
                 #####################
-            elif infor == "14":
+            elif infor == "15":
                 sys.exit()
-                
+
                 #####################
+
+            elif infor == "13":
+                helpp.Banner()
+                trial.__start__()
+
+                #####################
+
+
             elif infor == "":
                 input(Fore.RED+" [!]"+Fore.GREEN+" Please Enter Number (Press Enter...) ")
         except KeyboardInterrupt:
