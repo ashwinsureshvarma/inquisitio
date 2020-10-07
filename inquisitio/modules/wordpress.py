@@ -1010,7 +1010,7 @@ aweber-web-form-widget
     print(Fore.RED+" [!] Please Do Not Include Http\n")
     try:
         
-        url = input(Fore.RED+" ┌─["+Fore.LIGHTGREEN_EX+"WEBKILLER"+Fore.BLUE+"~"+Fore.WHITE+"@HOME"+Fore.RED+"/"+Fore.CYAN+"CMN"+Fore.RED+"/"+Fore.LIGHTYELLOW_EX+"WP"+Fore.RED+"/"+Fore.GREEN+"Get-Plugins"+Fore.RED+"""]
+        url = input(Fore.RED+" ┌─["+Fore.LIGHTGREEN_EX+"inquisitio"+Fore.BLUE+"~"+Fore.WHITE+"@HOME"+Fore.RED+"/"+Fore.CYAN+"CMN"+Fore.RED+"/"+Fore.LIGHTYELLOW_EX+"WP"+Fore.RED+"/"+Fore.GREEN+"Get-Plugins"+Fore.RED+"""]
  └──╼ 卐 """).lower()
         if url == "" or None:
             

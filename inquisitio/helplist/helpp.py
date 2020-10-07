@@ -92,11 +92,26 @@ def infolist2():
     print(Fore.CYAN+"  **********************") 
     time.sleep(0.1)
 
+    print(Fore.GREEN+"  [13]"+Fore.BLUE+" - RUN ALL")    
+    print(Fore.CYAN+"  **********************")
+    time.sleep(0.1)
+
+    print(Fore.GREEN+"  [14]"+Fore.BLUE+" - Back To Menu")    
+    print(Fore.CYAN+"  **********************")
+    time.sleep(0.1)
+
+    print(Fore.GREEN+"  [15]"+Fore.BLUE+" - Exit :) \n")   
+
+
+    '''print(Fore.GREEN+"  [15]"+Fore.BLUE+" - Trial")    
+    print(Fore.CYAN+"  **********************") 
+    time.sleep(0.1)
+
     print(Fore.GREEN+"  [13]"+Fore.BLUE+" - Back To Menu")    
     print(Fore.CYAN+"  **********************")
     time.sleep(0.1)
 
-    print(Fore.GREEN+"  [14]"+Fore.BLUE+" - Exit :) \n")   
+    print(Fore.GREEN+"  [14]"+Fore.BLUE+" - Exit :) \n")   '''
 
 '''def infolist3():
 
